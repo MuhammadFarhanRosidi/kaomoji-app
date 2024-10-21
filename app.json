@@ -13,7 +13,8 @@
     },
     "ios": {
       "buildNumber": "1",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mfarhanrosidi.kaomojiapp"
     },
     "android": {
       "versionCode": 1,
@@ -21,10 +22,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.muhammadfarhanrosidi.kaomoji-app"
+      "package": "com.mfarhanrosidi.kaomojiapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1489bfa0-8c89-4f38-ac83-7cee851560f4"
+      }
     }
   }
 }
