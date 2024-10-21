@@ -4,7 +4,7 @@ Kaomoji App adalah aplikasi yang memungkinkan pengguna untuk menjelajahi dan men
 
 ## Demo
 
-![](https://github.com/muhammadfarhanrosidi/kaomoji-app/demo-kaomoji-app.gif)
+![demo-kaomoji-app](demo-kaomoji-app.gif)
 
 ## Features
 
