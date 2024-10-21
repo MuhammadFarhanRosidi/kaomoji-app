@@ -39,6 +39,9 @@ export const globalStyles = StyleSheet.create({
     shadowOpacity: 0.3,
     shadowRadius: 4,
     elevation: 5,
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
   },
   kaomojiText: {
     fontSize: 24,
